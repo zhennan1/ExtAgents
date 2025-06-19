@@ -1,5 +1,7 @@
 # ExtAgents
 
+See the newest code at [https://github.com/THUNLP-MT/ExtAgents](https://github.com/THUNLP-MT/ExtAgents)
+
 ## Introduction
 
 ExtAgents is a framework for scaling external knowledge input beyond the context length of LLMs via multi-agent collaboration.
